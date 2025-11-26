@@ -1,7 +1,7 @@
 import time
 import requests
 
-URL = "https://simulador-surebet.onrender.com"
+URL = "https://surebet-simulator.onrender.com"
 
 while True:
     try:

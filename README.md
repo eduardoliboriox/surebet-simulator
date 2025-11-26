@@ -4,6 +4,8 @@ Este projeto é um **Simulador de Aposta de Valor** desenvolvido em **Flask**, c
 
 A aplicação identifica automaticamente se existe **SureBet (arbitragem)** a partir das odds informadas.
 
+Visualize a aplicação real através do link no final deste README.md.
+
 ---
 
 ## 🚀 Funcionalidades
@@ -37,7 +39,7 @@ python app.py
 
 O sistema está disponível online pelo Render:
 
-➡️ **https://simulador-surebet.onrender.com**
+➡️ **https://surebet-simulator.onrender.com**
 
 ---
 
