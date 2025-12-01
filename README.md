@@ -1,4 +1,4 @@
-# 🧮 Simulador de Aposta de Valor (SureBet Calculator)  Aqui
+# 🧮 Simulador de Aposta de Valor (SureBet Calculator)  Aqui o nome
 
 Este projeto é um **Simulador de Aposta de Valor** desenvolvido em **Flask**, com interface totalmente em **HTML + CSS + JavaScript**, permitindo calcular automaticamente stakes e retornos para estratégias *Handcap M-Duplo, Triplo e Quadruplo*, com suporte para **português (BR)** e **inglês (US)**.
 
